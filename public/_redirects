@@ -1,1 +1,2 @@
-/* https://csc.techilyflycsc.workers.dev/:splat 301
+# Redirect csc.techilyfly.com to csc.techilyflycsc.workers.dev
+https://csc.techilyfly.com/* https://csc.techilyflycsc.workers.dev/:splat 301
