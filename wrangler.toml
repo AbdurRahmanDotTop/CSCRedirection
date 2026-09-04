@@ -1,0 +1,7 @@
+name = "csc-redirect-worker"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+routes = [
+  { pattern = "csc.techilyfly.com", custom_domain = true }
+]
